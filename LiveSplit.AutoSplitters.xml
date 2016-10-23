@@ -635,6 +635,7 @@
     </URLs>
     <Type>Script</Type>
     <Description>Auto Splitting and Load Removal are available. (By 0Seren)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/Magnetic%20By%20Nature/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -1305,7 +1306,8 @@
       <URL>https://raw.githubusercontent.com/0Seren/AutoSplitters/master/Woolfe/Woolfe.asl</URL>
     </URLs>
     <Type>Script</Type>
-    <Description>Auto Splitting and Load Removal are available. (By 0Seren and SuicideMachine)</Description>
+    <Description>Load Removal is available. (By 0Seren and SuicideMachine)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/Woolfe/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
 	<Games>
@@ -1721,6 +1723,7 @@
     </URLs>
     <Type>Script</Type>
     <Description>Auto Splitting and Load Removal are available. (By 0Seren)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/ASAMU/README.md</Website>
   </Autosplitter>
   <Autosplitter>
     <Games>
@@ -1880,6 +1883,7 @@
     </URLs>
     <Type>Script</Type>
     <Description>Auto Splitting and Auto Start/Reset are available. (By 0Seren)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/Undead%20Rider%20Asylum/README.md</Website>
   </Autosplitter>
   <Autosplitter>
     <Games>
@@ -1926,6 +1930,7 @@
     </URLs>
     <Type>Script</Type>
     <Description>Load Removal is available. (By Brassmaster)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/ReCore/README.md</Website>
   </Autosplitter>
   <Autosplitter>
     <Games>
@@ -1936,6 +1941,7 @@
     </URLs>
     <Type>Script</Type>
     <Description>Load Removal is available. (By 0Seren)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/Valley/README.md</Website>
   </Autosplitter>
   <AutoSplitter>
     <Games>
@@ -1966,5 +1972,6 @@
     </URLs>
     <Type>Script</Type>
     <Description>Autosplitting and Load Removal is available. (By 0Seren)</Description>
+    <Website>https://github.com/0Seren/AutoSplitters/blob/master/Aragami/README.md</Website>
   </AutoSplitter>
 </AutoSplitters>
